@@ -1,0 +1,23 @@
+:root{
+    --cor-da-letra-principal: #D0B084;
+    --cor-da-letra-secundaria: 	#FFDAB9;
+    --botao-rosa-bebe: #f6c8c7;
+    --cor-de-fundo: #00030C;
+}
+body{
+    background-color: var(--cor-de-fundo);
+}
+h1{
+    color: var(--cor-da-letra-principal);
+    font-size: 25px;
+    margin: 60px 0 0 0;
+}
+p{
+    color: var(--cor-da-letra-secundaria);
+    font-size: 20px;
+    margin: 0 0 0 45px;
+}
+img{
+    height: 400px;
+    margin:0 0 70px 700px;
+}
