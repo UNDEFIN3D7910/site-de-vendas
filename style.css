@@ -9,15 +9,22 @@ body{
 }
 h1{
     color: var(--cor-da-letra-principal);
-    font-size: 25px;
-    margin: 60px 0 0 0;
+    font-size: 35px;
+    margin: 60px 0 0 30px;
 }
 p{
     color: var(--cor-da-letra-secundaria);
-    font-size: 20px;
-    margin: 0 0 0 45px;
+    font-size: 25px;
+    margin: 0 0 0 150px;
 }
 img{
-    height: 400px;
-    margin:0 0 70px 700px;
+    margin:0 0 0 1000px;
+    width: 40%;
+}
+.container__botao{
+    color: #FFFFFF;
+    background-color:aquamarine;
+    border-color:#167BF7 ;
+    border-radius: 30px;
+    padding: 1em;
 }
